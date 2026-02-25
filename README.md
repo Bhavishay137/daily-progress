@@ -2,7 +2,6 @@
 
 This repository tracks my daily learning activities and progress in a consistent and structured manner.
 
----
 
 ## Day 1
 
