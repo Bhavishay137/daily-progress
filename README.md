@@ -61,7 +61,7 @@ This repository tracks my daily activities, improvements, and consistency in lea
   - Focused on building foundational understanding step-by-step  
 ## Day 3
 
-# Activities
+#### Activities
 
 - Registered for the Unisys Innovation Program  
   - Completed the registration process on the official platform  
@@ -85,7 +85,7 @@ This repository tracks my daily activities, improvements, and consistency in lea
 
 ---
 
-# Learning
+#### Learning
 
 - Explored opportunities related to industry programs and student initiatives  
   - Understood how such programs provide exposure and experience  
@@ -101,7 +101,7 @@ This repository tracks my daily activities, improvements, and consistency in lea
 
 ---
 
-# Tools / Environment
+#### Tools / Environment
 
 - Used GitHub for managing and updating repositories  
   - Practiced version control operations  
