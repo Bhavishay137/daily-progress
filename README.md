@@ -59,29 +59,57 @@ This repository tracks my daily activities, improvements, and consistency in lea
 - Continued learning new technical concepts  
   - Used structured platforms and self-learning resources  
   - Focused on building foundational understanding step-by-step  
-  ## Day 3
+## Day 3
 
-### Activities
+# Activities
 
 - Registered for the Unisys Innovation Program  
+  - Completed the registration process on the official platform  
+  - Gained access to program resources and opportunities  
+
 - Formed a team to participate in Unisys courses and events  
+  - Collaborated with peers to build a team  
+  - Planned participation strategy for upcoming activities  
+
 - Enrolled in the event: UIP Y17 - Student Activities Guide  
+  - Successfully joined the event through the platform  
+  - Reviewed the event guidelines and structure  
+
 - Continued organizing and updating GitHub repositories  
-- Improved file structure and maintained proper naming conventions  
+  - Managed files and repositories more efficiently  
+  - Ensured proper structure and updates  
+
+- Improved file structure and naming conventions  
+  - Maintained consistency in file naming  
+  - Organized folders for better readability and management  
 
 ---
 
-### Learning
+# Learning
 
 - Explored opportunities related to industry programs and student initiatives  
-- Gained understanding of how such programs work and how to participate effectively  
+  - Understood how such programs provide exposure and experience  
+  - Learned about participation and engagement process  
+
+- Gained understanding of how such programs work  
+  - Learned about events, teamwork, and structured activities  
+  - Understood the importance of collaboration  
+
 - Continued self-learning through online resources  
+  - Maintained consistency in learning  
+  - Focused on improving technical understanding  
 
 ---
 
-### Tools / Environment
+# Tools / Environment
 
 - Used GitHub for managing and updating repositories  
-- Worked with development environment to organize and upload code  
+  - Practiced version control operations  
+  - Improved confidence in handling repositories  
+
+- Worked with development environment  
+  - Managed code files locally  
+  - Organized workflow between local system and GitHub  
+
 
  
