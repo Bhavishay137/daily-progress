@@ -59,3 +59,29 @@ This repository tracks my daily activities, improvements, and consistency in lea
 - Continued learning new technical concepts  
   - Used structured platforms and self-learning resources  
   - Focused on building foundational understanding step-by-step  
+  ## Day 3
+
+### Activities
+
+- Registered for the Unisys Innovation Program  
+- Formed a team to participate in Unisys courses and events  
+- Enrolled in the event: UIP Y17 - Student Activities Guide  
+- Continued organizing and updating GitHub repositories  
+- Improved file structure and maintained proper naming conventions  
+
+---
+
+### Learning
+
+- Explored opportunities related to industry programs and student initiatives  
+- Gained understanding of how such programs work and how to participate effectively  
+- Continued self-learning through online resources  
+
+---
+
+### Tools / Environment
+
+- Used GitHub for managing and updating repositories  
+- Worked with development environment to organize and upload code  
+
+ 
