@@ -140,3 +140,67 @@ This repository tracks my daily activities, improvements, and consistency in lea
 - Operated virtual machine for Kali Linux  
   - Managed system resources efficiently  
   - Practiced switching between environments smoothly  
+  ---
+
+## Day 4
+
+#### Activities
+
+- Continued exploring Cloud Computing fundamentals  
+  - Studied the basic concept of cloud computing and how it differs from traditional computing infrastructure  
+  - Learned about the idea of accessing computing resources such as storage, servers, and networking through the internet  
+  - Understood the role of cloud platforms in modern software development and infrastructure management  
+
+- Started learning AWS (Amazon Web Services) basics  
+  - Began studying introductory AWS concepts through the Edureka YouTube channel  
+  - Learned about the importance of cloud service providers in modern technology ecosystems  
+  - Gained initial exposure to AWS services and their practical applications  
+
+- Explored core cloud computing concepts  
+  - Understood different cloud service models such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)  
+  - Learned about the idea of scalable computing resources and on-demand infrastructure  
+
+- Strengthened understanding of cloud architecture fundamentals  
+  - Studied how cloud systems provide flexibility and scalability for applications  
+  - Learned how cloud platforms allow developers to deploy and manage applications more efficiently  
+
+- Continued maintaining GitHub repositories  
+  - Updated repositories with recent learning progress  
+  - Maintained consistency in documenting daily learning activities  
+  - Ensured organized project structure and repository updates  
+
+- Focused on improving technical learning consistency  
+  - Dedicated time to structured learning rather than scattered study  
+  - Reinforced the habit of documenting technical progress regularly  
+
+---
+
+#### Learning
+
+- Developed foundational understanding of cloud computing  
+  - Learned how cloud platforms provide computing resources remotely  
+  - Understood the benefits of scalability, flexibility, and cost efficiency in cloud environments  
+
+- Gained initial exposure to AWS ecosystem  
+  - Learned that AWS is one of the most widely used cloud platforms globally  
+  - Understood how different AWS services support application development and deployment  
+
+- Improved understanding of modern infrastructure concepts  
+  - Recognized how cloud computing plays a critical role in modern software development  
+  - Began connecting cloud technologies with future learning goals in software development and cybersecurity  
+
+---
+
+#### Tools / Environment
+
+- Used online learning platforms and video resources  
+  - Followed structured cloud computing tutorials on the Edureka YouTube channel  
+  - Practiced learning concepts through guided explanations and examples  
+
+- Continued using GitHub for documenting progress  
+  - Maintained consistent updates to track technical development  
+  - Used repositories as a record of ongoing learning and practice  
+
+- Maintained local development workspace  
+  - Organized folders and repositories for better workflow management  
+  - Ensured proper documentation of daily progress
