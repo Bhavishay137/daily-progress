@@ -207,3 +207,64 @@ Preparing for the PCAP exam also reinforced previously learned Python concepts, 
 - HackerRank for coding practice and problem solving  
 - GitHub for documentation and version control  
 - Local development workspace for organizing learning materials
+
+---
+
+# Day 5
+
+#### Activities
+
+- Created and configured an AWS account  
+  - Successfully created a personal AWS account to begin practical exploration of cloud services  
+  - Logged into the AWS Management Console and explored the dashboard interface  
+  - Became familiar with the layout of AWS services, including compute, storage, networking, and security sections  
+  - Learned the importance of proper account setup and credential management for cloud platforms  
+
+- Explored AWS console and beginner cloud services  
+  - Navigated through AWS service categories to understand the structure of the platform  
+  - Learned about commonly used services such as EC2, S3, and IAM at a conceptual level  
+  - Began understanding how developers deploy and manage resources through the AWS console  
+
+- Attended multiple technical workshops  
+  - Participated in workshops focused on **Python programming** to strengthen core programming concepts  
+  - Attended introductory sessions on **Java**, gaining exposure to object-oriented programming concepts and how Java differs from Python  
+  - Participated in beginner sessions related to **HTML and CSS**, learning how basic web pages are structured and styled  
+
+- Practiced prompt engineering and structured prompting techniques  
+  - Continued learning how to create clearer and more effective prompts for technical assistance and problem solving  
+  - Experimented with improving prompt clarity to obtain more structured explanations and guidance  
+  - Understood how effective prompting can improve productivity while learning programming concepts  
+
+- Continued solving coding challenges on HackerRank  
+  - Practiced additional programming exercises to improve problem-solving ability  
+  - Applied Python concepts learned earlier to real coding problems  
+  - Focused on improving logical thinking and code efficiency  
+
+- Maintained GitHub repositories and documentation  
+  - Continued updating repositories with new learning progress and code implementations  
+  - Ensured documentation remained clear and organized  
+  - Strengthened the habit of recording technical progress daily  
+
+---
+
+#### Learning
+
+Day 5 focused heavily on **practical exposure and expanding technical breadth**.
+
+Creating and accessing the AWS account marked an important step toward moving from theoretical cloud learning to practical interaction with cloud platforms.
+
+Attending workshops on Python, Java, HTML, and CSS provided exposure to multiple programming environments and development areas. This helped me understand how different technologies interact within the broader software ecosystem.
+
+Learning about prompt engineering also improved my ability to ask precise technical questions and obtain clearer explanations, which helps accelerate the learning process.
+
+Continuing HackerRank practice reinforced Python fundamentals and strengthened problem-solving confidence.
+
+---
+
+#### Tools / Environment
+
+- AWS Management Console for exploring cloud services  
+- Online workshops and technical sessions for learning programming concepts  
+- HackerRank platform for coding practice  
+- GitHub repositories for documenting progress and maintaining version control  
+- Local development environment for coding experiments and practice
