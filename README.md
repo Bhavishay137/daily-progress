@@ -268,3 +268,59 @@ Continuing HackerRank practice reinforced Python fundamentals and strengthened p
 - HackerRank platform for coding practice  
 - GitHub repositories for documenting progress and maintaining version control  
 - Local development environment for coding experiments and practice
+
+---
+
+# Day 6
+
+#### Activities
+
+- Continued learning AWS services in more detail  
+  - Explored the purpose and functionality of major AWS services such as **EC2**, **S3**, and **IAM**  
+  - Understood how EC2 provides scalable virtual servers for running applications in the cloud  
+  - Learned how S3 can be used for cloud storage and data management  
+  - Explored the role of IAM in managing users, permissions, and security within AWS environments  
+
+- Started working on a group project  
+  - Collaborated with teammates to discuss project ideas and possible implementation approaches  
+  - Began planning the structure and objectives of the project  
+  - Understood the importance of teamwork, communication, and role distribution in software development projects  
+
+- Strengthened programming knowledge using learning platforms  
+  - Practiced programming concepts through **Codecademy** to reinforce structured learning  
+  - Used **GeeksforGeeks** articles and examples to deepen conceptual understanding of Python topics  
+  - Explored additional explanations and examples to better understand programming logic and problem-solving techniques  
+
+- Continued practicing Python programming concepts  
+  - Reviewed previously learned Python topics including lists, loops, and functions  
+  - Practiced writing small code snippets to strengthen understanding of core programming ideas  
+  - Focused on improving code readability and logical thinking  
+
+- Maintained consistent documentation and repository updates  
+  - Updated GitHub repositories with the latest learning progress  
+  - Continued documenting daily learning activities in the progress repository  
+  - Ensured that all repositories remained organized and properly structured  
+
+---
+
+#### Learning
+
+Day 6 focused on **strengthening technical understanding while beginning collaborative development work**.
+
+Learning more about AWS services helped deepen my understanding of how cloud platforms provide computing infrastructure, storage solutions, and security management tools for modern applications.
+
+Starting a group project introduced the collaborative aspect of software development, where planning, communication, and task coordination become just as important as writing code.
+
+Using platforms such as Codecademy and GeeksforGeeks helped reinforce programming fundamentals by combining structured learning paths with detailed conceptual explanations.
+
+This combination of **cloud exploration, collaborative work, and consistent coding practice** helped expand both my technical knowledge and practical development mindset.
+
+---
+
+#### Tools / Environment
+
+- AWS Management Console for exploring cloud services and infrastructure concepts  
+- Codecademy for structured programming practice and guided exercises  
+- GeeksforGeeks for conceptual explanations and programming examples  
+- GitHub repositories for documenting daily progress and managing learning resources  
+- Local development environment for coding experiments and testing small programs
