@@ -324,3 +324,56 @@ This combination of **cloud exploration, collaborative work, and consistent codi
 - GeeksforGeeks for conceptual explanations and programming examples  
 - GitHub repositories for documenting daily progress and managing learning resources  
 - Local development environment for coding experiments and testing small programs
+**---**
+
+**# Day 7**
+
+**#### Activities**
+
+\- Continued strengthening Python programming fundamentals  
+   - Practiced core Python concepts through coding exercises and small programs  
+   - Focused on improving programming logic and problem-solving skills  
+   - Reviewed previously learned concepts to identify areas that require more practice  
+   - Worked on writing cleaner and more structured Python code  
+
+\- Continued exploring Cloud Computing and AWS  
+   - Studied fundamental cloud computing concepts and their role in modern applications  
+   - Explored AWS services to understand their purpose and practical use cases  
+   - Strengthened understanding of computing, storage, and security concepts in cloud environments  
+   - Connected theoretical cloud concepts with practical development scenarios  
+
+\- Continued using online learning resources for technical development  
+   - Followed structured learning material to reinforce programming concepts  
+   - Used technical articles, tutorials, and examples to understand difficult topics  
+   - Practiced concepts instead of relying only on theoretical learning  
+   - Focused on building a stronger conceptual foundation for future technical topics  
+
+\- Continued improving my overall technical learning routine  
+   - Balanced programming practice with cloud learning and technical research  
+   - Revised previously learned concepts while gradually exploring new topics  
+   - Applied theoretical knowledge through coding practice and experimentation  
+   - Focused on maintaining steady progress across different areas of technology  
+
+**---**
+
+**#### Learning**
+
+Day 7 focuses on **\*\*strengthening my technical foundation while continuing to expand my knowledge across programming and cloud technologies\*\***.
+
+Python practice helps improve my programming logic and problem-solving approach, while continued AWS and Cloud Computing learning gives me a better understanding of the infrastructure and services behind modern applications.
+
+Using different learning resources also helps me understand that technical growth requires more than simply completing tutorials. **\*\*Practice, research, experimentation, revision, and consistency\*\*** are all important parts of the learning process.
+
+This learning phase helps me build a stronger foundation before moving toward more advanced programming, cloud, and cybersecurity concepts.
+
+**---**
+
+**#### Tools / Environment**
+
+\- Python for programming practice and experimentation  
+\- AWS for exploring cloud computing concepts and services  
+\- Codecademy for structured programming learning  
+\- GeeksforGeeks for technical explanations and programming references  
+\- Local development environment for writing and testing programs
+
+**---**
